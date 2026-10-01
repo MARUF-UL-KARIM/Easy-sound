@@ -1,0 +1,13 @@
+{
+"javaVersion": "21",
+"libraries": [],
+"libraryEntries": {},
+"minSdkVersion": 21,
+"package": "com.example.easysound",
+"targetSdkVersion": 34,
+"useR8": false,
+"versionCode": 1,
+"versionName": "1.0",
+"viewBindingEnabled": false,
+"zipAlignEnabled": false
+}
